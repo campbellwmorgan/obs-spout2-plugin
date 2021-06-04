@@ -30,6 +30,9 @@ Thanks to the authors of [SPOUT](https://github.com/leadedge/Spout2) for the lib
 - Run the installer (accepting installation from untrusted source)
 - Select the `OBS` directory if not the default install location
 
+
+More text
+
 > N.B there are no current plans for 32bit builds, although theoretically this should be possible
 ## Contributing / Building
 
